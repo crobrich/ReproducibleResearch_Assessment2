@@ -1,2 +1,5 @@
-# ReproducibleResearch_Assessment22
-Reproducible Research Coursera Course Assessment 2
+# ReproducibleResearch_Assessment2
+
+Results are at
+https://rpubs.com/crobrich/95659
+
